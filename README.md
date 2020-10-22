@@ -2,7 +2,7 @@
 
 ## Predicting Bike Sharing Patterns
 
-In this project you get to build a nueral network from scratch to carry out a prediction problem based on the UCI machine learning database.
+In this project you get to build a neural network from scratch to carry out a prediction problem based on the UCI machine learning database.
 
 
 ## Dog Breed classifier
